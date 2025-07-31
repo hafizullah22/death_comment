@@ -1,8 +1,11 @@
 import streamlit as st
 import pandas as pd
 
-# Set wide layout
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="মৃত্যুর মুহূর্তে মানুষ কি বুঝতে পারে?",  # Title shown on browser tab
+    page_icon="💭",  
+    layout="wide"    
+)
 
 # Load CSV
 data = pd.read_csv('new_death_comment_4K.csv', encoding='utf-8')

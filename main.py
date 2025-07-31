@@ -36,7 +36,7 @@ st.markdown(
     """
     <style>
     .block-container {
-    padding-top: 2rem !important;  /* Reduces top padding to ~32px */
+    padding-top: 3rem !important;  /* Reduces top padding to ~32px */
 }
     .card {
         background-color: #f9f9f9;

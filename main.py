@@ -120,4 +120,4 @@ with col3:
             st.session_state.page_number += 1
 
 
-st.text("একান্তাই আমার ইচ্ছা")
+st.text(" সকল কমেন্ট  Science Bee - বিজ্ঞান ও গবেষণা গ্রুপের Ifar A ভাইয়ের পোস্ট থেকে API এর মাধ্যমে স্ক্যাপ করে নেয়া হইয়ে হয়েছে")

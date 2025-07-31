@@ -35,7 +35,9 @@ paginated_data = data.iloc[start_idx:end_idx]
 st.markdown(
     """
     <style>
-    
+    .block-container {
+    padding-top: 1rem !important;  /* Reduces top padding to ~16px */
+}
     .card {
         background-color: #f9f9f9;
         padding: 15px 20px;

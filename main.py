@@ -121,4 +121,4 @@ with col3:
 
 
 st.text(" সকল কমেন্ট  Science Bee - বিজ্ঞান ও গবেষণা গ্রুপের  Ifar A ভাইয়ের পোস্ট থেকে API এর মাধ্যমে স্ক্যাপ করে নেয়া হয়েছে")
-st.markdown("p style='color:#1877f2; text-align:center;'>This App Developed and Maintenance By: Md. Hafiz Ullah</p>", unsafe_allow_html=True)
+st.markdown("<p style='color:#1877f2; text-align:center;'>This App Developed and Maintenance By: Md. Hafiz Ullah</p>", unsafe_allow_html=True)
